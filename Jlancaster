@@ -1,0 +1,108 @@
+<!doctype hmtl5>
+  <html>
+
+    <head>
+      <title> Jordan Lancaster </title>
+      <body style="background-color:powderblue;">
+     
+       <!-- external css -->
+      <link rel ='stylesheeet/css' href='styles/style.css'/> 
+      <style type="text/css">
+      body{
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      h1{
+        font-size: 40px;
+        text-decoration: underline;
+      }
+      h2{
+        font-size: 30px;
+        color:pink;            
+        text-decoration: underline;
+      }
+      </style>
+    </head>
+
+    <body>      
+      <img src="Jordo.HEIC" alt = 'Jordan Lancaster' style="width:128px;height:128px">
+
+      <header> 
+        <h3>What to know about <strong>Jordan Lancaster</strong>! </h3>
+      </header> 
+      
+      <main>
+        <p>Jordan Lancaster is a flexible associate when it is time to work cohesively to accomplish goals and milestones.</p>
+
+      <!-- Start of Resume-->
+        <h1><u>Resume</u></h1>
+
+        <section id = "resume_education">
+          <h2>Education: </h2>
+           <dl>Syracuse University: May 2021 
+            <dt>Major: Information Technology and Management: Information Security (3.091)</dt>
+             <dt> Related Course Work:</dt>
+             <!-- create lists for these ul/ol-->
+                 <dd>Data Analytics:</dd> 
+                 <dd>Advanced Front-End Web Design:</dd> 
+                 <dd>Advanced Computer Networking:</dd>
+           </dl>
+
+        </section>
+
+        <section id= "resume_expereince">
+          <h2>Expereince: </h2>
+
+          <!-- Chosen League -->
+          <dl>
+            <dt>The Chosen League | Equipment Manager | May 31, 2018 – Present </dt>
+              <dd>Offered by CEO to come back for the future seasons.</dd>
+              <dd>Observed and assisted in all positions for events preparation and closure.</dd> 
+              <dd>Ordered and organized materials and apparel.</dd>
+              <dd> Kept record of game and player statistics</dd>
+            <!-- OSL: RA -->
+            <dt>Office of Student Living at Syracuse University | Resident Advisor | August 2018 – Present</dt>
+              <dd>Help guide first-year students with options of how to operate and function independently in college.</dd>
+              <dd>Communicate and facilitate meetings weekly with residents, coworkers, and professional staff.</dd>
+              <dd>Learn to build maintain, a common living space for diverse first-year students. </dd>
+            <!-- Club Lacrosse -->
+            <dt>Syracuse Men’s Club Lacrosse | President | Aug 21, 2019 – Present</dt>
+              <dd>Organized and communicated game dates and times with our competitors in the NCLL along with notifying refs, Athletic directors, and other officers and members of the team.</dd>
+              <dd>Communicate and facilitate practices weekly with teammates, create team formations and practice agenda.</dd>
+              <dd>Managed and sustained relationships with lower-class and upper-class athletes to unify our team to better our team chemistry.</dd>
+          </dl>
+          
+
+        </section>
+
+        <section id = "resume_leadership">
+            <h2>Experience</h2>
+                Ashbee Lacrosse | Head Coach | March 10, 2017 – June 15, 2017 <br>
+                Hendricks Chapel | Office Coordinator | November 2017 – Present<br>
+
+        </section>
+
+        <section id = "resume_project">
+            <h2> Projects </h2>
+                SmartSearch: Best Buy API  Fall 2019
+                Create and built open-source API that allowed users to search for items in Best Buy’s catalog and created a shopping cart for the user with tax built-in based off location.</p>
+        
+        </section>
+
+        <section id = "Technical Skills"> 
+            <h2>Technical Skills</h2>
+            Languages: Basic knowledge of American Sign Language <br>
+            Programming: Python, SQL<br>
+            Software: Windows 10, High Sierra, and Office 365<br>
+            Leadership: Communication and Project Management<br>
+        </section>
+
+        <footer>
+            <h3>Contact Inforation:</h3>
+            Phone Number: (xxx) 285-3747, Email: jlancast@xxx.xxx
+
+        </footer>
+      </main>
+        
+    </body>
+    
+  </html>
